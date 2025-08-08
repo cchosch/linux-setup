@@ -7,7 +7,7 @@ echo "export ZSH_THEME=powerlevel10k/powerlevel10k" >> ~/.zshrc
 # echo "export PATH=/mnt/c/Users/[[PROFILE NAME]]/AppData/Local/Programs/'Microsoft VS Code'/bin/:\$PATH" >> .zshrc
 
 # Autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions}
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 # Autocomplete
 git clone https://github.com/marlonrichert/zsh-autocomplete ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autocomplete
